@@ -11,6 +11,6 @@ Open your terminal or notebook and install the following:
 ```python
 pip install pandas py2neo openai neo4j datasets
 ```
-
+Fulll blog post here: https://supermemory.ai/blog/knowledge-graph-for-rag-step-by-step-tutorial/
 
 If you find this helpful, kindly give this ⭐
