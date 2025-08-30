@@ -8,6 +8,8 @@ Here’s what makes knowledge graphs so useful in AI-powered apps:
 - **Explainability**: You can show exactly why a result was retrieved.
 - **Domain alignment**: Graphs reflect real-world relationships, just like your business rules do.
 
+![KG Image](https://lh7-rt.googleusercontent.com/docsz/AD_4nXebTSWwC1IrgIU8dkccq9lAUPrt-S7eaTz12oAiyTt4jLmytGTuC8HgbpI_pf5lvWnNLLxYurrIQA_RnznCaNobLpEvkW9_Y3vAUI9IScE44qaBv50XiE_bt5Aho9qoEB9lUI1duw?key=lqZSFvuWmXmvGZnyQ5f1lQ)
+
 ## Dependencies
 
 -   Python 3.8+
