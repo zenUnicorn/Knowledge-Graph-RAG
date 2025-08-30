@@ -10,10 +10,19 @@ Here’s what makes knowledge graphs so useful in AI-powered apps:
 
 ![KG Image](https://lh7-rt.googleusercontent.com/docsz/AD_4nXebTSWwC1IrgIU8dkccq9lAUPrt-S7eaTz12oAiyTt4jLmytGTuC8HgbpI_pf5lvWnNLLxYurrIQA_RnznCaNobLpEvkW9_Y3vAUI9IScE44qaBv50XiE_bt5Aho9qoEB9lUI1duw?key=lqZSFvuWmXmvGZnyQ5f1lQ)
 
+## Goals
+
+- Load supply chain data (product catalogs, suppliers, purchase orders)
+- Convert unstructured descriptions into structured relationships
+- Build a knowledge graph using  [Neo4j](https://neo4j.com/)
+- Query the graph with user questions like “Which suppliers in Europe provide Product X?”
+- Generate natural-language answers based on retrieved graph data
+
+
 ## Dependencies
 
 -   Python 3.8+
--   Neo4j Desktop ([Download it here](https://neo4j.com/download/))
+-   Neo4j Desktop [Download it here](https://neo4j.com/download/)
 -   OpenAI account (for triple extraction)
 -   Jupyter Notebook or any Python IDE (e.g., VS Code)
 -   [Procurement KPI Analysis Dataset](https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset)
