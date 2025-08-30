@@ -1,3 +1,13 @@
+## Why Knowledge Graphs Are Catching On
+
+That’s where knowledge graphs come in. Unlike vectors, graphs give you explicit relationships between entities. A product has a supplier. A supplier serves a location. A warehouse stores certain categories. And once that structure exists, querying becomes way more powerful and intuitive.
+
+Here’s what makes knowledge graphs so useful in AI-powered apps:
+
+- **Structured retrieval**: You can write precise queries instead of relying on fuzzy matches.
+- **Explainability**: You can show exactly why a result was retrieved.
+- **Domain alignment**: Graphs reflect real-world relationships, just like your business rules do.
+
 ## Dependencies
 
 -   Python 3.8+
